@@ -1,13 +1,13 @@
 {
     "id": "com.samsung.bf2022.invaders",
     "name": "Black Weeks Invaders",
-    "logo": "https://res.leox.dev/assets/invaders/teaser",
+    "logo": "https://sg.le0x8.com/assets/invaders/teaser.png",
     "publisher": "samsung",
     "collection": "bf2022",
     "lang": ["cz", "de", "dk", "en", "es", "fi", "fr", "hr", "hu", "it", "lt", "lv", "nl", "no", "pt", "ro", "se", "si", "sk"],
     "description": {
         "profile": "Le0X8",
-        "repository": "samsung-bf-games",
+        "repository": "samsung-games",
         "branch": "main",
         "path": "/assets/translations/$1.json",
         "replace": [
